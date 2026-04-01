@@ -1,0 +1,14 @@
+Minimum Attendance Requirement:
+Students must maintain a minimum of 75% attendance in all subjects to be eligible for end-semester examinations.
+
+Grading System:
+The university follows a 10-point CGPA grading system. A score of 90% and above corresponds to an 'O' (Outstanding) grade.
+
+Examination Malpractice:
+Any student found possessing unauthorized materials during examinations will be debarred for one year.
+
+Course Registration:
+Students must register for courses at least one week before the commencement of the semester.
+
+Supplementary Exams:
+Students failing a course may apply for supplementary exams within 15 days of result declaration.

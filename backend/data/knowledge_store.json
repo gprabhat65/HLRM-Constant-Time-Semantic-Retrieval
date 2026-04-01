@@ -1,0 +1,62 @@
+{
+  "Root/Academics|cc4b4889402ee4fba5d345612ea8e49da09b0cac56d8f15dc7a9803e732eb7d7": {
+    "answer": "Students must maintain a minimum of 75% attendance in all subjects to be eligible for end-semester examinations.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Minimum Attendance Requirement",
+    "confidence": "verified"
+  },
+  "Root/Academics|715ba6acf67057780b46056cab65eface920db50720bb636cb020e7f41f0764d": {
+    "answer": "The university follows a 10-point CGPA grading system. A score of 90% and above corresponds to an 'O' (Outstanding) grade.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Grading System",
+    "confidence": "verified"
+  },
+  "Root/Academics|49eecdb1e48c10587dda9dbfe58a3cae6cc435dae3b7d33a6500d41b7e32c86e": {
+    "answer": "Any student found possessing unauthorized materials during examinations will be debarred for one year.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Examination Malpractice",
+    "confidence": "verified"
+  },
+  "Root/Academics|2e00e4a775bb0410a610ae893718392901e629003bd7ccd8ab3105247c593805": {
+    "answer": "Students must register for courses at least one week before the commencement of the semester.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Course Registration",
+    "confidence": "verified"
+  },
+  "Root/Academics|583551142239d01992843e7d001bf61181fce2c972a61afaee641aa36034abd8": {
+    "answer": "Students failing a course may apply for supplementary exams within 15 days of result declaration.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Supplementary Exams",
+    "confidence": "verified"
+  },
+  "Root/Hostels|65e2784192d997fb84f0c6f3cd8b3062446e25ca9e570be4bbd77fdd970ae539": {
+    "answer": "All residents must be inside the hostel premises by 9:30 PM. Late entry requires prior permission from the warden.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Hostel Curfew",
+    "confidence": "verified"
+  },
+  "Root/Hostels|b785d09af158e48b8e4e249e0e742a5a7512ea58683cecfc4c2c682c15e547cb": {
+    "answer": "Visitors are allowed only in the common areas between 4:00 PM and 7:00 PM on weekends.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Visitor Policy",
+    "confidence": "verified"
+  },
+  "Root/Hostels|43adb244cdb9e8790345bd5b481192df9db6c4333740da25f342c25be3773009": {
+    "answer": "Silence hours are to be observed from 11:00 PM to 6:00 AM. Loud music is strictly prohibited.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Noise Regulations",
+    "confidence": "verified"
+  },
+  "Root/Hostels|a1d7a28e61cc937ec8b88361d81110e62f086636a6ebf0fa671afedd38e9e17e": {
+    "answer": "Residents are responsible for the cleanliness of their rooms. Weekly inspections will be conducted by the warden.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Room Maintenance",
+    "confidence": "verified"
+  },
+  "Root/Hostels|fbef05f6f753b606acecb1f6bdd766d54e3f5834f656e9cf695f03fc8cb633dc": {
+    "answer": "Breakfast is served from 7:30 AM to 9:00 AM. Dinner is served from 7:30 PM to 9:00 PM.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Mess Timings",
+    "confidence": "verified"
+  }
+}

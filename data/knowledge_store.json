@@ -1,0 +1,1118 @@
+{
+  "Root/Academics|cc4b4889402ee4fba5d345612ea8e49da09b0cac56d8f15dc7a9803e732eb7d7": {
+    "answer": "Students must maintain a minimum of 75% attendance in all subjects to be eligible for end-semester examinations.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Minimum Attendance Requirement",
+    "confidence": "verified"
+  },
+  "Root/Academics|715ba6acf67057780b46056cab65eface920db50720bb636cb020e7f41f0764d": {
+    "answer": "The university follows a 10-point CGPA grading system. A score of 90% and above corresponds to an 'O' (Outstanding) grade.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Grading System",
+    "confidence": "verified"
+  },
+  "Root/Academics|49eecdb1e48c10587dda9dbfe58a3cae6cc435dae3b7d33a6500d41b7e32c86e": {
+    "answer": "Any student found possessing unauthorized materials during examinations will be debarred for one year.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Examination Malpractice",
+    "confidence": "verified"
+  },
+  "Root/Academics|2e00e4a775bb0410a610ae893718392901e629003bd7ccd8ab3105247c593805": {
+    "answer": "Students must register for courses at least one week before the commencement of the semester.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Course Registration",
+    "confidence": "verified"
+  },
+  "Root/Academics|583551142239d01992843e7d001bf61181fce2c972a61afaee641aa36034abd8": {
+    "answer": "Students failing a course may apply for supplementary exams within 15 days of result declaration.",
+    "source": "academic_regulations.txt",
+    "original_intent": "Supplementary Exams",
+    "confidence": "verified"
+  },
+  "Root/Hostels|65e2784192d997fb84f0c6f3cd8b3062446e25ca9e570be4bbd77fdd970ae539": {
+    "answer": "All residents must be inside the hostel premises by 9:30 PM. Late entry requires prior permission from the warden.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Hostel Curfew",
+    "confidence": "verified"
+  },
+  "Root/Hostels|b785d09af158e48b8e4e249e0e742a5a7512ea58683cecfc4c2c682c15e547cb": {
+    "answer": "Visitors are allowed only in the common areas between 4:00 PM and 7:00 PM on weekends.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Visitor Policy",
+    "confidence": "verified"
+  },
+  "Root/Hostels|43adb244cdb9e8790345bd5b481192df9db6c4333740da25f342c25be3773009": {
+    "answer": "Silence hours are to be observed from 11:00 PM to 6:00 AM. Loud music is strictly prohibited.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Noise Regulations",
+    "confidence": "verified"
+  },
+  "Root/Hostels|a1d7a28e61cc937ec8b88361d81110e62f086636a6ebf0fa671afedd38e9e17e": {
+    "answer": "Residents are responsible for the cleanliness of their rooms. Weekly inspections will be conducted by the warden.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Room Maintenance",
+    "confidence": "verified"
+  },
+  "Root/Hostels|fbef05f6f753b606acecb1f6bdd766d54e3f5834f656e9cf695f03fc8cb633dc": {
+    "answer": "Breakfast is served from 7:30 AM to 9:00 AM. Dinner is served from 7:30 PM to 9:00 PM.",
+    "source": "hostel_code_of_conduct.txt",
+    "original_intent": "Mess Timings",
+    "confidence": "verified"
+  },
+  "Root|aebf9a4d3fb6510e7c9958ad332c31c6513b6d0c5a2ba201fc9141d33c139506": {
+    "answer": "The Regulations 2021 is applicable to the students admitted to the first year B.E/B.Tech. Programmes of the Institution from the academic year 2021 -2022 onwards. The regulations hereunder are subjected to amendments as may be decided by the Academic Council of the Institution from time to time. Any or all such amendments will be effective from such date and to such batches of students (including those already in th e middle of the programme) as may be decided by the Academic Council.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "DEGREE OF BACHELOR OF ENGINEERING / BACHELOR OF TECHNOLOGY",
+    "confidence": "verified"
+  },
+  "Root|17e9d3a7bc8826c2016911f9ea08d311b7bff1a478748eac3ddc9a8c5d3cb2fd": {
+    "answer": "Programme. ii) \u201cDiscipline \u201d means specialization or branch of B.E./B.Tec h. Degree Programme, like Civil Engineering, Computer Science and Engineering , etc. iii) \u201cCourse \u201d means a theory or practical subject that is normally studied in a semester, like Mathematics, Physics, etc. iv) \u201cHead of the Institution\u201d means the Principal of the College. v) \u201cHead of the Department\u201d means Head of the Department concerned . vi) \u201cChairperson  / BoS \u201d means Head of the Department concerned . vii) \u201cController of Examinations (C oE)\u201d means the authority of the college who is responsible for all activities of the Examinations concerned. viii) \u201cHead, Centre for Academic Courses\u201d means the authority of the college who is responsible for all academic activities for the implementation of relevant rules and regulations. ix) \u201cUniversity\u201d means the affiliating university, viz., Anna University, Chennai.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "i) \u201cProgramme \u201d means Degree Programme, that is B.E./B.Tech. Degree",
+    "confidence": "verified"
+  },
+  "Root|aef8b882fce8a5a8eba8ddb68d10ff00310fa628c1774838edc4664c23507afe": {
+    "answer": "2.1 Candidates seeking admission to the first semester of the eight semesters B.E. /",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "2 ADMISSION",
+    "confidence": "verified"
+  },
+  "Root|ccd975df6b46f9369977ec8db105be2cf7a8a2da4786a409a5be9e3e46aa5500": {
+    "answer": "Should have passed the Higher Secondary Examinations  of (10+2) Curriculum (Academic Stream) prescribed by the Government of Tamil Nad u with Mathematics, Physics and Chemistry as three of the four subjects of study under Part -III or any examination of any Page 2 of 22 other University or authority accepted by the Syndicate of Anna University as equivalent thereto.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "B.Tech. Degree Programme",
+    "confidence": "verified"
+  },
+  "Root|8ee85ade8f69b13cad246b98cef5b031cf1acfe3f210a21346f4e138ca05c42a": {
+    "answer": "ii) The candidates who possess the Degree in Science (B.Sc.,) (10+ 2+3 stream) with Mathematics as a subject at the B.Sc. Level are eligible to ap ply for Lateral entry admission to the t hird semester of B.E. / B.Tech. Such candidates shall undergo",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "(OR)",
+    "confidence": "verified"
+  },
+  "Root|d06d967518b05fe620eb3fdd113f1ff19a40d84d8c9a6e041fe4899e97285880": {
+    "answer": "by the State Board of Technical Education, Tamil Nadu or its e quivalent are eligible to apply for Lateral entry admission to the third semester of B.E. / B. Tech. as per the rules fixed by Government of Tamil Nadu.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "i) The candidates who possess the Diploma in Engi neering / Technology awarded",
+    "confidence": "verified"
+  },
+  "Root|225778782d875038f10cddcef43ce1c67d1b8f7209ece4619c5de5385182eebb": {
+    "answer": "prescribed by the College .",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "two additional Engineering subject(s) in the third  and fourth semesters as",
+    "confidence": "verified"
+  },
+  "Root|175a1b839420c76fca5d35fb58cfe2245259521c11c8c952747940e7a2a1378b": {
+    "answer": "The following are the branches of study under B. E / B. Tech  degree programme.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "3 PROGRAMMES OFFERED",
+    "confidence": "verified"
+  },
+  "Root|6a9e070f1f207bfcc3c3945ad3bb2070d6060c59e536ca4e51106657a3052e27": {
+    "answer": "vii Computer Science and Engineering (Artificial Intelligence and Machine Learning)",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "vi. Mechanical Engineering",
+    "confidence": "verified"
+  },
+  "Root|1d7bdbbdf412320e6706a69de30dfd16e980b640bf789d1cf5b2dcc1ffc46e47": {
+    "answer": "Every B.E. / B. Tech. Programme will have a curriculum wi th syllabi consisting of theory",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.1 Categorization of Courses",
+    "confidence": "verified"
+  },
+  "Root|ba64283a9c27ac7a5e6ea79f7b70778eb976baa6ff54801e22d70545195539bd": {
+    "answer": "include English, Communication skills , subjects of Management studies etc. ii) Basic Sciences Courses (BSC) include Mathematic s, Physics, Chemistry  etc. Page 3 of 22  iii) Engineering Sciences Courses (ESC) include Manufacturing practice ,",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "i) Humanities Social Sciences and Management Courses (HSMC) courses",
+    "confidence": "verified"
+  },
+  "Root|0616bf5cc47f89d4dbf91e0e05f1a1e30df453598f158afe877a7ffa8bb1d225": {
+    "answer": "Programming etc.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Engineering Graphics, Basics of Electrical/Electronics/M echanical/Computer",
+    "confidence": "verified"
+  },
+  "Root|cf2c3c4c865ac4ff1819ed6159a833e6eba9192a9e0a7c3837806733158a88b7": {
+    "answer": "chosen specialization/branch. v) Professional Elective Courses (PEC) include the e lective courses relevant to the chosen specialization/ branch. vi) Open Elective Courses (OEC) include the courses offered by a branch to other branches, from the list specified in t he respective curriculum of the B.E. / B. Tech.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "iv) Professional Core Courses (PCC) include the core  courses relevant to the",
+    "confidence": "verified"
+  },
+  "Root|603e791062964c712727b288671a962504d6c2d3d4ebf1284bac27848b7daee7": {
+    "answer": "courses and Value -Added  Courses. viii) Mandatory Non -credit courses (MNC)  expose the students to i nduction program ,",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Training/ Internship, Industry oriented courses, Liberal Arts Courses, Online",
+    "confidence": "verified"
+  },
+  "Root|7f4dd21a703e8bf31614e14c437a36b26fdd52c7cc944002dea95ed93d9f8bf6": {
+    "answer": "students.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Integrative Approach.  Registration for these courses is mandatory for all the",
+    "confidence": "verified"
+  },
+  "Root|873d7c94a9d5ea708c15f2a85a652929ff80ff4fb1b2649469afe001ea7a795e": {
+    "answer": "All students shall enrol , on admission, in any one of the personality and character",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.2 Personality and Character Development",
+    "confidence": "verified"
+  },
+  "Root|87449766dcecb28c37fd51a29f98fb1998aae997acfbf12e075c9941cc8aa5c8": {
+    "answer": "training / conduct activities for  about 80hours and attend a camp of about seven days. The training shall include classes on hygiene  and health awareness and also training in first - aid. Alternately, activities of Technical Club Houses  and Cultural Club Houses  also help for personality and character development. So, students shall  conduct and participate actively in activities of the technical  clubs/Cultural clubs for 80 hours  and participate in at least ONE event. National Cadet Corps (NCC) will have about 20 parades. National Service Scheme (NSS)  / Unnat Bharat Abhiyan (UBA)  will have social service activities in and around the College / Institution. Physical Education Department  will have Sports, Games, Drills and Physical exercises. Youth Red Cross (YRC) will have activities related to social services in and around College/Institutions. While the training activities will normally be during weekends, the camp will normally be during vacation period. Technical club house s will have activities related to techni cal happenings around the world, which includes conducting various interactive workshops and hands on fun teaching sessions. Page 4 of 22 Cultural Cl ub house s will have activities related to Literary  and Fine Arts . Various enjoyable events are to be conducted under this club houses to enrich our understanding of various different cultures and practices and introduce new exotic art forms from around the globe . Students who enroll  and take active participation in anyone of the above activities for 80 hours and participate at least one event/programme will be given a  certificate by the Head of the Institution and the copy of the same shall be forwarded to the  Controller of Examinations for the purpose of record and scrutiny. No fee shall be charged for all these activities.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "development  programmes NCC/NSS/ UBA/SPORTS  & GAMES /YRC and undergo",
+    "confidence": "verified"
+  },
+  "Root|b359656fd8929ca87ecd24624206d95465c6f2615378c5b9054d51052b8970b0": {
+    "answer": "Courses may be classified as Theory courses, Laboratory Courses, Theory courses with Laboratory component, Theory courses with Project component and Laboratory courses with Project component. The total number of Courses per semester shall not exceed 10 including Employability Enh ancement Course(s). Each Course  shall have cre dits assigned",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.3 Number of courses per semester",
+    "confidence": "verified"
+  },
+  "Root|061587cf43715866875bf1fb395898fdeb9bbfdb0f6b7ab473b54dfa26dedef9": {
+    "answer": "The total credit requirement for successful completion of the B.E/B.Tech  (Four Year programme) programme of study in the respective branches listed in clause 3, by a student to qualify for the award of degree is 165 and that for the lateral entry students is 122-127.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.4 Credit Assignment",
+    "confidence": "verified"
+  },
+  "Root|3ec3b27e884ab578060bbd0d18a1082ce9a9d77c0d44dc69909d1061d0f5f074": {
+    "answer": "Students shall undergo a minimum 4 weeks of industrial training/internship as part of the",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.5 Industrial Training/ Internship  (summer / winter vacation)",
+    "confidence": "verified"
+  },
+  "Root|11d29f14e51a053ad84f53105a7162eb04be8157608d6aa50b7ecc295ab40557": {
+    "answer": "industrial training/internship shall be completed in 2 spells of 2 weeks each at research organizations / reputed academic institutions / industries after Semester III, during winter / summer vacation. A student can also take up 4 weeks of industrial training/internship at a stretch with the app roval of Departmental Consultative Committee (DCC). Attendance Certificate signed by the competent authority of the industry, as per the format",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "curriculum and earn 2 credits which is mandatory to complete the programme. The",
+    "confidence": "verified"
+  },
+  "Root|045bdb18a281cfbbee8bd0379d6d4a4a56df4644d9e56523459721b4e74988a4": {
+    "answer": "Department . The attendance certificate shall be forwarded to COE by the Head of the Department for processing results .",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "provided by Centre for Academic Courses shall be submitted to the Head of the",
+    "confidence": "verified"
+  },
+  "Root|3ff729e60ec45d84fb3c41aa475ca1c357ea31c32759294d0d40fda12fd60442": {
+    "answer": "Every student is required to go for at least one Industrial Vis it every semester starting from",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.6 Industrial Visit",
+    "confidence": "verified"
+  },
+  "Root|c0115a6a0fb2e504daa6bfd8b98cdf5582bd9d8a635b5f79f8c4877d8dd75d1f": {
+    "answer": "necessary arrangements are made in this regard. Page 5 of 22 4.7 Value Added Courses  / Industry Oriented Courses / Liberal Arts Courses",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "the second year of the Programme. The Heads of Departme nts shall ensure that",
+    "confidence": "verified"
+  },
+  "Root|3836fb28c3fd67a6b911ebf8977513810dd02ce3362ea7e8bfb4892d2a286aa6": {
+    "answer": "The students  may optionally undergo Value Added Courses (VAC) and the credits earned through the Value -Added  Courses shall be over and above the total credit requirement prescribed in the curriculum for the award of the degree. One / Two credit courses shall be offered by a Department of an institution with the prior approval from the Head of the Institution and  Centre for Academic Courses. On completion of the course, credits earned will be indicated in the semester grade sheet as well as in the consolidated grade she et as additional credits.  These additional cred its will not be considered for GPA/CGPA calculations.  The details of the syllabus, time table and course coordinator may be sent to the Centre for Academic Courses at least  one month before the course is offered for approval.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.7.1  Value Added Courses",
+    "confidence": "verified"
+  },
+  "Root|2fc777179d583d43ff91c1adbdb2f2bab31b6a449c2b8fcfa2d8ffc4dbab1984": {
+    "answer": "The students may optionally undergo Industry Oriented Courses / Liberal Arts Courses . One c redit Industry Oriented C ourses with the duration of 15 hours  shall be offered by the experts from the industry on recent topics. The details of the course shall be recommended by the Department Consultative Committee and approved by Head of the Institution.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.7.2  Industry Oriented Courses / Liberal Arts Courses",
+    "confidence": "verified"
+  },
+  "Root|cf753acaed4e6ca5269813f0be55942eb6c6fe74895ec844bbce451aff64ced3": {
+    "answer": "Programme. If the student earns three credits in Industry Oriented Courses, the student may drop one Professional Elective.  Otherwise, credits earned by the students will be indicated in the semester grade sheet as well as in the conso lidated grade sheet as additional credits. In such case, these additional credits will not be considered for GPA/CGPA calculations. One credit Liberal A rts Courses with the duration of 15 hours shall be offered by the centre for Liberal Arts Courses  with the prior approval from the Head of the Institution and Centre for Academic Courses. If the student earns three credits in Liberal Arts Courses, the student may drop one Open  Elective.  Otherwise, credits earned by the students will be indicated in the semester grade sheet as well as in the consolidated grade sheet as additional credits.  In such case these additional credits will not be considered for GPA/CGPA calculations.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Students can take a maximum of three credits during the entire duration of the",
+    "confidence": "verified"
+  },
+  "Root|bc33c24448f61b1ca59170430d3ad1a0e66379093bdc3e336b9e3f3fa9cb44a0": {
+    "answer": "Students may be permitted to credit a maximum of two online courses subject to a maximum of six credits, with the approval of Head of the Institution and Centre for Academic Courses, in lieu of professional elective courses.  The Head of the Institution shall form a three -member committee with members as HOD and a faculty member from the Department of student, HOD of any other branch of the Institution to ensure that the student has not studied such course and would not repeat  it again as Professional core/p rofessional elective. These online courses shall be chosen from the SWAYAM platform / MOOC courses with proctored examination . The details regarding online courses taken up by student and marks/credits earned should be sent to the Controller of Examinations in the subsequent semester(s) along with the details of the professional elective to be dropped. Otherwise, credits earned by the students will be indicated in the semester grade sheet as well as in the consolidated grade sheet as additional credits.  In such case these additional credits will not be considered for GPA/CGPA calculations.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.8 Online Courses",
+    "confidence": "verified"
+  },
+  "Root|0648cc2702d2891983f59799f31b4f4185580866d1aea2c7a96b234305c2182f": {
+    "answer": "Students may optionally undergo National/International professional certification courses, and if a  student successfully completes the course, 1 / 2 / 3 credits may be allotted with prior approval from  the Head of the Institution and the Centre for Academic Courses. If the student earns three credits,  the student may drop one Professional Elective .",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.9 National / International Professional Certification  Courses",
+    "confidence": "verified"
+  },
+  "Root|beed83fb54bd703b0139a727decc03a11f170e5f9c4fd9762ef1438127117dac": {
+    "answer": "Otherwise, the credits earned by the student will be indicated in the semester grade sheet and in  the consolidated grade sheet as additional credits. These additional credits will not be considered  for GPA/CGPA calculations.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Page 6 of 22",
+    "confidence": "verified"
+  },
+  "Root|ace2ed7e601d2881f581e4d3e0f5e841a27db2c13d1f53b2109473676b4d8196": {
+    "answer": "Students may optionally undergo Micro Specialization  offered by the departments . The students should have earned a  minimum of 12 credits additionally in any one of the following verticals from 3rd semester. Upon  Successful completion of the courses, it will be indicated in the semester grade sheet and in the  consolidated grade sheet.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.10 Micro Specialization  Courses",
+    "confidence": "verified"
+  },
+  "Root|946879987f45eaf483f7bedf46ae938ad5bf716be46b86e4ccc5b7eab584a74b": {
+    "answer": "Induction training programme shall be offered at the start of the first year  for the period of three weeks . The mandatory non -credit courses mentioned in clause 4.1 shall be offered as part of the curriculum and to be conducted not less than 20 hours.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.11 Mandatory Non -credit Courses",
+    "confidence": "verified"
+  },
+  "Root|7636adeb69e44c49a772b9dd13442cb89cf14ee90f7a77a389866e383e656e88": {
+    "answer": "Students may optionally undergo Capsule Courses (6 \u2013 8 hours). Upon completion of the course, it  will be indicated in the semester grade sheet and in the consolidated grade sheet.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.12 Capsule Courses - Non-Mandatory Non -Credit Courses",
+    "confidence": "verified"
+  },
+  "Root|d161954dce4de0e385b5994392fdc1fc5adffa3817d2a1f030b4bb1d6f58bba4": {
+    "answer": "The medium of instruction is English for all courses, examinations, seminar presentations and project reports.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "4.13 Medium of Instruction",
+    "confidence": "verified"
+  },
+  "Root|18f389822fefe859b59d501595fce66c332e7342b97b7e277b08dab46b998b0d": {
+    "answer": "in 8 semesters (for HSC students) and six semesters (for Lateral Entry students) but in any case, not more than 1 4 Semesters for HSC (or equivalent) students and not more than 12 semesters for Lateral Entry students. 5.2 Each semester shall normally consist of 75 working days or 540 periods of 50 minutes each. The Head of the Institution shall ensure that every teacher imparts instruction as per the number of periods specified in the syllabus and that the teacher teaches t he full content of the specified syllabus for the course being taught. 5.3 The Head of the Department  may conduct additional classes for improvement, special coaching, conduct of model test etc., over and above the specified periods. But for the",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "5.1 A student is expected to complete the B.E. / B.Tech. Programme",
+    "confidence": "verified"
+  },
+  "Root|f4386ef87e8d3fe7e13741dba2b6439d7a7c4942a338a068fde4d0a7b07566cf": {
+    "answer": "examinations (as per clause 7 ) by the students, following method shall be used. Page 7 of 22  The End Semester  Examination will normally follow immediately after the last working day of the semester as per the academic schedule prescribed from time to time  by the Centre for Academic Courses . 5.4 The total period for completion of the programme reckoned from the commencement of the first semester to which the student was admitted shall not exceed the maximum period specified in clause 5.1 irrespective of the period o f break of study (vide clause 17 ) in order that he/she may be eligible for the award of the degree (vide clause 1 5).",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "purpose of calculation of attendance requirement for writing the end semest er",
+    "confidence": "verified"
+  },
+  "Root|da13c9aa340ab56fa5009d83621a16dd1157e69d4f40270607f66faf33e02995": {
+    "answer": "6.1 Each student, on admission, shall be assigned to a mentor (vide clause 8), who shall advice and counsel the student about the details of the academic programme and the choice of courses, considering the student\u2019s academic background and career objectives. 6.2 After registering for a course, a student shall attend the classes, satisfy the attendance",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "6 COURSE REGISTRATION",
+    "confidence": "verified"
+  },
+  "Root|a90bbb9bc67636f72b0e3c8759142a1e74ec15cf73632e318df60cb27db1c971": {
+    "answer": "Examinations. 6.2.1 Each student on admission shall register for all the courses prescribed in the curriculum during the first Semester .",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "requirements, earn Continuous Assessment marks and appear for the End Semester",
+    "confidence": "verified"
+  },
+  "Root|7962695c3938d01773c1bfefd02580e6d1efff1f78f303ae2008ea288fede6c1": {
+    "answer": "semester. If the student wishes, the student may drop or add courses (vide clause",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "commence 5 working days prior to the commencement of the succeeding",
+    "confidence": "verified"
+  },
+  "Root|c91cdcc82c9e1433120a12ceb66f6ec85060f768ef9b85be878ba3418874aca2": {
+    "answer": "Programme. 6.2.3  A student who has passed all the courses prescribed in the curriculum for the award of the degree shall not be permitted to re -register to improve the student's marks in a course or the aggregate marks / CGPA. 6.2.4  If a student fails in a professional elective  course , he/she may be permitted to register for different professional elective course(s) in lieu of professional elective course, the student had fail to clear, in the subsequent semester in addition to the course of the current semester. The maximum number of credits that can be registered in a semester is 36. However, this",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "and complete the registration process duly authorized by the mentor of the",
+    "confidence": "verified"
+  },
+  "Root|7a983f98435d2155700a6340a7bc9c10b0ffdcb5a573220edac4cdbc94ee012b": {
+    "answer": "registered by the student for the appearance of Examination.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "does not include the number of Re -appearance (RA) and Withdrawal (W) courses",
+    "confidence": "verified"
+  },
+  "Root|894f47cb73389c0c212f36b5a58c367f6c8d93651980fa2026073d86de511bf7": {
+    "answer": "6.3.1 A student has to earn the total number of credits specified in the curriculum of the respective Programme of study in order to be eligible to obtain the degree.  However,  if the student wishes, the student is permitted to earn more than the total number of  credits prescribed in the curriculum of the student\u2019s programme within the minimum  duration of",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "6.3 Flexibility to Add or Drop courses",
+    "confidence": "verified"
+  },
+  "Root|05bb39e0d098f834912f45be1993dd433ca33c836eaa6921918063eb8cea2b3b": {
+    "answer": "6.3.2 From the Semester II to VII , the student has the option of registering for additional courses or dropping existing courses in a semester during registration. The Total number of credits of such courses shall not exceed 6 per semester. The student is permitted to add or drop course(s) within 5 days of the commencement of the academic schedule.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "the programme",
+    "confidence": "verified"
+  },
+  "Root|da44f9cda13d5f401e6cc88fed74dc8d40c5e43381485139b0c6bbb547ab156e": {
+    "answer": "7.1 A student who has fulfilled the following conditions shall be deemed to have satisfied the requirements for completion of a semester. Ideally every student is expected to attend all classes of all the courses and secure 1 00% attendance. However, in order to give provision for certain unavoidable reasons such as Medical / participation in sports, the student is expected to attend at least 75% of the classes. Therefore, he/she shall secure not less than 75% (after rounding off to the nearest integer) of overall attendance as calculated as per clause 5.3. 7.2 However, a student who secures overall attendance between 65% and 74% in the current semester due to medical reasons (prolonged hospitalization / accident / specific illness) / Participation in Sports events may be permitted to appear for the current semester examinations subject to the condition that the student shall submit t he medical certificate / sports participation certificate attested by the Head of the Institution. The same shall be forwarded to the Controller of Examinations for record purposes. 7.3 Students who secure less than 65% overall attendance shall not be permitt ed to write the End Semester Examination and  not permitted to move to the next semester. They are required to repeat the incomplete semester in the next academic year, as per the norms prescribed.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Page 8 of 22 7 ATTENDANCE REQUIREMENTS FOR COMPLETION OF THE SEMESTER",
+    "confidence": "verified"
+  },
+  "Root|8baeaf0f4962dcd24fad6d868b2d7d5fd865a36a8fae2a52c65e913d063c5233": {
+    "answer": "To help the students in planning their courses of study and for general advice on the academic programme, the Head o f the Department of the students  will attach a certain number of students to a teacher of the Department, who shall function as Mentor for those students throughout their period of study. The Mentor shall advise the students in registering and reappearance (Arrear) registering of courses , authorize the process, monitor their attendance and progress and counsel them periodically. If necessary, the Mentor may also discuss with or inform the parents about the progress / performance of",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "8 MENTOR",
+    "confidence": "verified"
+  },
+  "Root|305c2b43079c5eb57722e0b753330f7dae58453bece2f95e15ecd0a020ff87c8": {
+    "answer": "i) To inform the students about the various facilities and activities available in order",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "the students concerned.  The responsibilities for the mentor  shall be",
+    "confidence": "verified"
+  },
+  "Root|8623ecd2c706632b92f1004e9928a42bd18c95618db86a1f638edca0d92b0772": {
+    "answer": "iii) To authorize the final registration of the courses at the beginning of each semester",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "ii) To guide student enrolment and registration of the courses",
+    "confidence": "verified"
+  },
+  "Root|dfb1ee23fc8ff0887852b206ef585311afbb3b737ac6c8838287b3ee2aab5423": {
+    "answer": "attendance and to counsel them accordingly. v) To collect and maintain the academic and co -curricular records of the students.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "iv) To monitor the academic and general performance of the students including",
+    "confidence": "verified"
+  },
+  "Root|8e776840f1e70801fd06becc1297dc1cf4135e4cfe40876e4d6c2712587d23f4": {
+    "answer": "9.1 Every class shall have a class committee consisting of teachers of the class concerned, student representatives and a chairperson who is not handling  the class. It is like the \u2018Quality Circle\u2019 (more commonly used in industries) with the overall goal of improving the",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "9 CLASS COMMITTEE",
+    "confidence": "verified"
+  },
+  "Root|f180ff4ad9a19a1d1751590c66642816482c70cb0658bfecb3cfe193af326b4e": {
+    "answer": "i) Solving problems experienced by students in the class room and in the  laboratories ii) Clarifying the regulations of the programme and the details of rules there  in iii) Analysing the performance of the students of the class after each test and finding",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "teaching learning process. The functions of the class committee include",
+    "confidence": "verified"
+  },
+  "Root|9b3061217e903ebc8f9b016db5c2c8d3396236081b7ea2f200a142da94c24672": {
+    "answer": "Page 9 of 22  iv) Identifying the slow learners , if any, in any specific subject and requesting the",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "the ways and means of improving the Students Performance",
+    "confidence": "verified"
+  },
+  "Root|c7666a4103a39a1160335b0c1d3abf0c88ef812748165f5e90074939a98c2db0": {
+    "answer": "such weak students. 9.2 The class committee for a class under a particular branch is normally constituted by the Head of the Department. However, if the students of different branches are mixed in a class (like the first semester which is generally common to all branches), the class committee is to be constituted by th e Head of the Institution. 9.3 The class committee shall be constituted within the first week of each semester. 9.4 At least 4 student representatives (usually 2 boys and 2 girls) shall be included in the class committee, covering all the elective courses. 9.5 The chairperson of the class committee shall invite the mentor(s) and the Head of the Department to the meeting of the class committee. The Head of the Institution may participate in any class committee of the institution. 9.6 The first meeting of the class committee shall be held within one week from the date of commencement of the semester, in order to inform the students about the nature and",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "teachers concerned to provide some additional help or guidance or coaching to",
+    "confidence": "verified"
+  },
+  "Root|7f29b715aca54567dd354e1f11d71a8f298ba4792c890871089fd03093f7dda1": {
+    "answer": "Committee  Chairperson shall display the cumulative attendance particulars of each student on the  Notice Board at the end of every such meeting to enable the students to know their  attendance  details to satisfy the clause 7  of this Regulation. During these meetings the student members representing the entire class, shall meaningfully interact and express the opinions and suggestions of the other students of the class in order to improve the effectiveness of the teaching -learning process. 9.7 The chairperson is required to prepare the minutes of every meeting, submit the same to Head of the Institution within two days of the meeting and arrange to circulate it among the students and teachers concerned.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "subsequent meeti ngs may be held in a semester at suitable intervals. The Class",
+    "confidence": "verified"
+  },
+  "Root|ac7c591617d91cb60f3b029a35f80bef7b69ca4d25e10afd32045289370fa131": {
+    "answer": "Each common theory course offered to more than one discipline or group, shall have a \u201cCourse Committee\u201d comprising all the teachers teaching the common course with one",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "10 COURSE COMMITTEE FOR COMMON COURSES",
+    "confidence": "verified"
+  },
+  "Root|dcbbb7a6f3ebb6e1087934f6e2648ed26dc254d2478ee5681f01287e2d6113e2": {
+    "answer": "Coordinator shall  be made by the Head of the Department / Head of the Institution depending upon whether all the teachers teaching the common course belong to a single department or to several  departments. The \u2018Course committee\u2019 shall meet in order to arrive at a common scheme of evaluation for the test and shall ensure a uniform evaluation of the tests. Wherever feasible, the course committee may also prepare a common question paper for the int ernal assessment test(s).",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "among them nominated as Course Coordinator. The nomination of the Course",
+    "confidence": "verified"
+  },
+  "Root|a034651f45a17093ff5c16b85f285af54d3d6262a45bea43c57b8e77b0fb526b": {
+    "answer": "assessments throughout the semester and (ii) End Semester Examination at the end of the semester.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Performance in each course of study shall be evaluated based on (i ) Continuous",
+    "confidence": "verified"
+  },
+  "Root|7b610165ea5ee9338e7e2203b8440c041e32b2a2be954fd01ddf7e27a80f25df": {
+    "answer": "End Semester examinations will be of 3 hours\u2019 duration and shall normally be conducted between October and December during the odd semesters and between April and June during the even semesters.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Enhancement Courses  100 Marks  -",
+    "confidence": "verified"
+  },
+  "Root|a83d8a32c188155d56fa59309acaefd8cda6c1bd6dd59d210aa211637480862b": {
+    "answer": "Continuous Assessment comprises of two assessments of equal weightage, conducted by the course instructor / coordinator / department. The total marks obtained in the 2 assessments put together shall be reduced to 40 marks and rounded to the nearest integer as shown b elow. *200 Marks is to be converted into 40 marks for internal Assessment. ** Continuous assessment component will be decided by the course coordinator who has the liability to go for any mode of continuous assessment suitable to the course. However,",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "11.1 CONTINUOUS ASSES SMENT FOR THEORY COURSES",
+    "confidence": "verified"
+  },
+  "Root|a00b28ef5ad775b835318cf9da148c33d9738851de831ab60fb8761fa7c2a484": {
+    "answer": "semester as approved by the Head of the department concerned. Page 12 of 22 The project can be a group project. The group size should be based on the complexity of the project. Students should make sure that the concepts studied are reflected in the project and there is an innovative component.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "the assessment mode should be decided before the commencement of course in the",
+    "confidence": "verified"
+  },
+  "Root|39c691c98ddedd17ee4c93a094b7a3b156e013b45cbbdafc1ef8d426f0907ac5": {
+    "answer": "In case a student misses the assessment due to medical reasons (hospitalization / accident / specific illness) or due to participation in the College / University / State / National / International level Sports, events with prior permission from the Chairman, Sports Board, only one Reassessment may be given at the end of the semester af ter",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "40 60 40 60 200*",
+    "confidence": "verified"
+  },
+  "Root|ed8151f708b858e436874280ac340ddf16dda60fad72b6ee289d27ca42578a93": {
+    "answer": "instructor.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "getting approval from the Head of the Department through the concerned course",
+    "confidence": "verified"
+  },
+  "Root|a423b0b442e5d16d3a6ad7b423e53b992ec1bc66a4e13de4ea59c982b0bbeada": {
+    "answer": "Every laboratory exercise / experiment shall be evaluated based on conduct of experiment / exercise and records to be maintained. There shall be one test. The criteria for arriving",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "11.2 CONTINUOUS ASSES SMENT FOR LABORATORY COURSES",
+    "confidence": "verified"
+  },
+  "Root|f8ebd2f3cbbfe61c8ca85ddb453b294822a00b51faa736cd9e9ca181cdb30cb6": {
+    "answer": "successful completion of all the prescribed experiments done in the Laboratory and 25 Page 11 of 22 marks for the test. The total marks shall be converted into a maximum of 60 marks and rounded to the nearest integer.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "at the Continuous Assessment marks is as follows: 75 marks shall be awarded for",
+    "confidence": "verified"
+  },
+  "Root|3e04407efb4dba193c827a96bc9c12f60a19a31b561351f3a4d1510243f0ed88": {
+    "answer": "Continuous Assessment comprises of two assessments of equal weightage, conducted by the course instructor / coordinator / department. The total marks obtained in the 2 assessments put together shall be reduced to 50 marks and rounded to the nearest integer as shown below.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "COMPONENT",
+    "confidence": "verified"
+  },
+  "Root|379a3dfd65bd32f3a691ca4084189e10e7bde4fc088b67269a9e95d926e3fb3e": {
+    "answer": "(maximum mark 100) will be similar to assessment of laboratory course respectively. The",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "mark) will be similar to assessment of theory course and the second assessment",
+    "confidence": "verified"
+  },
+  "Root|5129c7f52331059f18c1f7db645b3347bcf25ef3d767ab47b31fec1fd1596815": {
+    "answer": "be converted into 50 marks and rounded to the nearest integer. *200 Marks is to be converted into 50 marks for internal Assessment. ** Continuous assessment component will be decided by the course coordinator who has the liability to go for any mode of continuous assessment suitable to the course. However,",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "weighted average of these two assessments shall",
+    "confidence": "verified"
+  },
+  "Root|63fb90be0f3323d4130ca3ddb83ed297e60a36639a2962d9ba5d605fdf816573": {
+    "answer": "*200 Marks is to be converted into 50 marks for internal Assessment. ** Continuous assessment component will be decided by the course coordinator who has the liability to go for any mode of continuous assessment suitable to the course. However,",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "40 60 15 25 60 200*",
+    "confidence": "verified"
+  },
+  "Root|f48fdd99a771188f2762d2b7043627323ad465b241d4219d5268bb7cfd479139": {
+    "answer": "*200 Marks is to be converted into 50 marks for internal Assessment. The project can be a group project. The group size should be based on the complexity of the project. Students should make sure that the concepts studied are reflected in the project and there is an innovative component.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "75 25 15 25 60 200*",
+    "confidence": "verified"
+  },
+  "Root|a52c61194c0b46c509edf7a9b65fc9425c815b3104cdc28869d78904fcba03d4": {
+    "answer": "The student shall register for Project Work -I in pre -final Semester and Project Work -II in final Semester.  Project work may be allotted to a single studen t or to a group of students not exceeding 4 per group. Project Work -II may/may not be continuation of Project Work - I. If Project Work II is not a continuation of Project Work I then the topic and constitution of the project team members need not be the same. 11.6.1 Project work shall be carried out under the supervision of a \u201cqualified teacher\u201d in the Department concerned. In this context \u201cqualified teacher\u201d means the faculty member possessing (i) PG degree or (ii) Ph.D. degree. 11.6.2 The Project Work -II carried out in industry/academic/research institutions need not be a continuation of Project Work I. In such cases,  the Project Work s hall be jointly supervised by a supervisor of the department and an expert as a joint superviso r from the organization and the student shall be instructed to meet the supervisor period ically and to attend the",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "11.6 ASSES SMENT FOR PROJECT WORK",
+    "confidence": "verified"
+  },
+  "Root|d5077e9b6aab9cd92fedb193fd0cb5bc909d3bc208dfa003dc637adf8d7b7188": {
+    "answer": "necessary, may also be arranged in online mode with prior approval from the Head of the Institution and suitable record of the meetings shall be maintained. 11.6.3 The Head of the Institution  shall constitute a review committee for project work for each programme. The review committee consists of supervisor, expert from the Department and a project coordinator from the Department. If the project coordinator/expert member happens to be the Supervisor then an alternate member shall be nominated.  In the case of industrial project, the review committee shall have supervisor, coordinator from industry and project coordinator from the Department. 11.6.4 There shall be three reviews during the Semester VII and VIII by a review committee. The",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "review committee meetings for evaluating the progress. The review m eetings, if",
+    "confidence": "verified"
+  },
+  "Root|ede7b7583817b5b7f71e4286ea58fc51d6f7a786c639f36dacafa7a1554e20de": {
+    "answer": "committee. The total marks obtained in the three reviews shall be reduced for 60 marks and rounded to the nearest integer. Page 13 of 22 The project report shall carry a maximum of 20 marks . The project report shall be submitted  as per the approved guidelines as given by Head , Centre for Academic Courses. Same mark  shall be awarded to every student within the project group for the project report. The viva -voce examination shall carry 20 marks . Marks are awarded to each student of the project  group based on the individual performance in the viva -voce examination.  Viva-",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "student shall make presentation on the progress made by him / her before the",
+    "confidence": "verified"
+  },
+  "Root|79c8b0cf3a57cd8c420a9bcce2a45be4bee0c49cf2def39355b97b249338fa12": {
+    "answer": "consisting of one internal examiner and one external examiner. The internal  and the external examiner shall be selected from the panel proposed by the B oS and appointed by the Controller of Examination. The distribution of marks for the internal assessment and End semester examination is",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "voce Examination during End Semester Examinations is conducted by a committee",
+    "confidence": "verified"
+  },
+  "Root|4f6d7740afc07d7e90a886f45ae20b4661c62a2a2a34846c0dda1b4c6f21e913": {
+    "answer": "11.6.5 The last date for submission of project report is the last working day of the semester. If a student fails to submit the project report on or before the specified deadline or the student has submitted the project report but did not appear for the viva -voce examination, it will be considered as fail in the Project Work and shall re -register for the same in the subsequent  semester.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "10 10 10 10",
+    "confidence": "verified"
+  },
+  "Root|18508c0b6cef179534669201fd358d0ca706e43f9f795e81775d2ead457b13fc": {
+    "answer": "11.7.1 The Industrial Training / Internship  shall carry 100 marks and shall be evaluated through internal assessment only. At the end of Industrial training / internship, the student shall submit an attendance certificate from the organization where he / she has undergone training and a brief repor t. The evaluation shall be based on the report (30%), presentation (30%) and response to the questions asked during presentation (40 %) by  a three -member panel constituted by the Head of the Institution. The  certificates submitted by the candidate shall be attached to the mark list sen t by the Head of the Department. 11.7.2 Industry Oriented Courses  shall carry 100 marks and shall be evaluated through continuous assessments only.  Two assessments shall be conducted by the department concerned  / Industry Experts . Total marks obtained in two assessments shall be reduced to 100 marks and reduced to the nearest integer. A committee consisting of the Head of the Department, coordinator of the  course and a senior faculty member nominated by the Head of the Institution shall monitor the evaluation process. 11.7.3 Liberal Arts  Courses  shall carry 100 marks and shall be evaluated through continuous assessments only.  Two assessments shall be conducted by the centre for Liberal Arts Courses . Total marks obtained in two assessments shall be reduced to 100 marks and reduced to the nearest integer. A committee consisting of the Head of the Department, coordinator of the  course and a senior faculty member nominated by the Head of the Institution shall monitor the evaluation process. Page 14 of 22 11.7.4 Value Added Courses  shall carry 100 marks and shall be evaluated through continuous assessment only. Two assessments shall be conducted by the department concerned. Total marks obtained in two assessments shall be reduced to 100 marks and reduced to the nearest integer. A committee consisting of the Head of the Department, staff handling the course and a senior faculty member nominated by the Head of the Institution shall monitor the evaluation process. The list of students along with the marks and the grades earned shall be forwarded to the Controller of Examinations for appropriate action. The credits earned by the students for value added courses will be recorded in the grade sheet, however the same shall not be considered for the computation of GPA/ CGPA.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "11.7 ASSES SMENT FOR OTHER EMPLOYABILITY ENHANCEMENT COURSES",
+    "confidence": "verified"
+  },
+  "Root|cd0ccb7eb4a8b4895f36a441ccbd8739779294d50606beccfa1bc289c4fb003d": {
+    "answer": "proctored examination. The credits earned shall be transferred and the marks earned shall be converted into grades and transferred , provided the organization offering the course conducts regular examination and the student has passed in the examination as per the norms of the offering organisation. The details regarding online courses taken up by student and marks/credits earned shoul d be sent to the Controller of Examinations, in the subsequent semester(s) along with the details of the professional elective course to be dropped.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "The online courses shall be chosen from the SWAYAM platform / MOOC courses with",
+    "confidence": "verified"
+  },
+  "Root|cd7eb5445840b332557de501c3ff22bb624e7cf823e1e61c229e5f8de845391d": {
+    "answer": "In order to  make student learning capabilities more meaningful and activity oriented, the students during their period of study in the college are encouraged to participate in high rated technical competitions like Hack -a-thons conducted by leading organization / Industries and premier inst itutions. In order to integrate  this in academics, additional marks can be awarded to the students if he / she wins the comp etitions, after due approval from Head of the Institution . The student can b enefit through such additional m arks, to a maximum of 10, which can be added to the continuous assessments marks scored for one/two course s in each semester. 11.10  Internal marks approved by the Head of the Institution shall be displayed by the respective H oDs within 5 days from the last working day.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "11.9 ADDITIONAL LEARNING",
+    "confidence": "verified"
+  },
+  "Root|581ba7a0da23685f1fd4c34da0e0c4d75974922ada4629f8c706f212350cd536": {
+    "answer": "which consists of attendance marked in each lecture or practical or project work class, the test marks and the record of class work (topic covered), separately for each course. This should be submitted to the Head of the department periodically (at least t hree times in a",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Every teacher is required to maintain an 'Attendance and Assessment Record'",
+    "confidence": "verified"
+  },
+  "Root|c4159ea57a9afc730224c8ce9a35866ac543f70b623a42129c9822efedd34cd7": {
+    "answer": "attendance. The Head of the Department will authenticate  after due verification. At the end of the semester, the record should be verified by the Head of the Ins titution . Department concerned will  maintain  this document for five years.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "semester) for checking the syllabus coverage and the records of test marks and",
+    "confidence": "verified"
+  },
+  "Root|bdcb5a0f38296df671bc22f9104a119f79cd2db8ae7ac44c7a7f9afb9645591c": {
+    "answer": "Academic Audit is to be done for every course taught during the semester. For the internal",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "11.12 Conduct of Academic Audit",
+    "confidence": "verified"
+  },
+  "Root|68501b8383e99a119703e0207de6b395a942573f760635b5d44c2d027ad6ca4f": {
+    "answer": "academic records shall be maintained in the form of documentation for the individual assignments / case study report / report of project submitted by each student and assessment test question paper and answer script. Report of industrial training / internship shall also be maintained. For laboratory courses students\u2019 record shall be mainta ined. Head of the Institution shall arrange to conduct the Academic Audit for every course in a semester by forming the respective committees with an external course expert as one of the members, drawn from a technical  institution of repute near the institute.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "assessments conducted for each course as per details provided in Clause 11, the",
+    "confidence": "verified"
+  },
+  "Root|2dcbee98f6b2cf5e8a892c5a23145d0c8eb4f89c83b7337a9f5bebfee0c9551c": {
+    "answer": "12.1 A student shall normally be permitted to appear for the End Semester  Examinations for all the courses registered in the current semester (vide clause 6) if he /she has satisfied the semester completion requirements (as per Clause 7). Further, examination registration by a student is mandatory for  all the courses in the current semester and all arrear(s) course(s) for the end semester  examinations failing which, the student will not be permitted to move to the higher semester.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Page 15 of 22 12 REQUIREMENTS FOR APPEARING FOR END SEMESTER  EXAMINATIONS",
+    "confidence": "verified"
+  },
+  "Root|4d2aee4cf5d9633f43463b4833a2a22e9bd329ab9e83bae03a9e6eab574de178": {
+    "answer": "examination is not entitled to reappear in the same subject for improvement of grades. 12.2 When a student is deputed for a National / International sports event or NCC camp during end semester examination period, special examinations shall be conducted within a reasonable period for such student after returning from the event or camp. Such an appearance shall be considered as first appearance.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "A student who has already appeared for any course in a seme ster and passed the",
+    "confidence": "verified"
+  },
+  "Root|e3fad5ca52382b74dd780f9e32d6982acb0763eeeb996030afc58d56295ef1e1": {
+    "answer": "13.1 A student who secures not less than 50% of total marks prescribed for the cou rse [Internal",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "13 PASSING REQUIREMENTS",
+    "confidence": "verified"
+  },
+  "Root|929d0fd43a90a7058842503d989b200d4f6490c26bd2b94949ab68ca805db7dd": {
+    "answer": "prescribe d for the End S emester Examination, s hall be declared to have passed the course and acquired the relevant number of credits. This is  applicable for both theory and practical courses (including project work). 13.2 If a student fails to secure a pass in a theory course / laboratory  course (except electives), the student shall register and appear only for the end semeste r examination in the subsequent semester. In such case, the internal assessment marks obtained by the student in the regular  appearance  (Regular Registration)  shall be retained and considered valid for first arrear appearance only  as per clause 13.1 . However, from the second arrear appearance  onwards , the student shall be declared to have passed the examination if he/she secure s a minimum of 50% marks prescribed for the end semester examinations alone. 13.3 If the course, in which the student has failed, is a professional elective or an open elective, the student may be permitted to complete the same course . In such case, the internal",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Assessment + End S emester Examinations] wit h a minimum of 45% of the marks",
+    "confidence": "verified"
+  },
+  "Root|a1dd9ae23f513ef34c9b87f7f3af60b1ed9a376a6cff43ce5df2ce79311789e4": {
+    "answer": "Registration) shall be retained and considered valid for first arrear appearance only as per clause 13.1. However, from the second arrear appearance onwa rds, the student shall be declared to have passed the examination if he/she secure s a minimum of 50% m arks prescribed for the end semester examinations alone. If any other professional elective or open elective course is opted by the student, the previous registration is cancelled and henceforth it is to be considered  as a new professional elective or open elective course. The student has to register a nd attend the classes, earn the continuous assessment marks, fulfil the attendance re quirements as per Clause 7 and appear for the end semester examination. 13.4 If a student is absent during the viva - voce examination, it would be considered as fail. If a student fails to secure a pass in Project work , the student shall register for the course again. Page 16 of 22 13.5 The passing requirement for the courses which are assessed only through purely internal assessments (EEC courses except project work and laboratory), is 50% of the internal assessment (continuous assessment) marks only. 13.6 Examination Wrapper and Revaluation:  One week after the publication of results, there shall be an examination wrapper day  for the theory courses . On this day, the students can go through their end semester answer papers in the presence of the course instructors and Head of the department and get clarifications. In cases of dispute, when the student is not satisfied with the clarifications/corrections, the student can apply for revaluation. There will not be any further reviews. Revaluation is not permitted to the courses other than theory courses. A student can a pply for revaluation of answer scripts for not exceeding 5 subjects at a time.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "assessment marks obtained by the student in the regular appearance (Regular",
+    "confidence": "verified"
+  },
+  "Root|81ffc0cbf875d658ab2a3652a757da2cc34c693f8d956ec8574ff43d824a4d7e": {
+    "answer": "14.1 The award of letter grades will be decided using relative grading principle. The relative grading is applicable to only those who have passes the examinations as per the passing requirements. For those students who have not passed the examinations, Reappearance (RA) shall be awarded as shown in the table below. The  performance of a student will be",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "14 AWARD OF LETTER GRADES",
+    "confidence": "verified"
+  },
+  "Root|91fad74172dc56760c6a7fa89311427ea1673b46bff83ce8ac809c445f86006c": {
+    "answer": "#For a given course, if the students\u2019 strength is greater than 30, the relative grading method shall be adopted. However, if the students\u2019 strength is less than 30 the absolute grading shall be followed with the grade range as specified in this column. For Laboratory courses and Project work absolute grading method is to be followed. A student is deemed to have passed and acquired the corresponding credits in a particular course if he/she obtains any one of the following grades: \u201cO\u201d, \u201cA+\u201d, \u201cA\u201d, \u201cB+\u201d,\u201cB\u201d, \u201cC\u201d. \u2018SA\u2019 denotes shortage of attendance (as per clause 7.3) and hence prevention from writing the end semester examinations. \u2018SA\u2019 will appear only in the result sheet. \u201cRA\u201d denotes that the student has failed to pass in that course. \u201c W\u201d denotes withdrawal from the exam for the particular course. The grades RA and W will figure both in Grade Sheet as well as in Result Sheet. In both cases, the student has to appear for the End Semester Examinations as per the regulations. Page 17 of 22  If the grade RA is given to Theory courses / Laboratory Courses it is not required to satisfy the attendance requirements (vide clause 7) but has to  appear for the end semester examination and fulfil the norms specified in Clause 1 3 to earn a pass in the respective courses. If the grade RA is given to EEC course (except project work), which are evaluated only through internal assessment, the student shall register for the course again in the subsequent semester , fulfil the norms as specified in Clause 1 3 to earn pass in the course. However, attendance requirement need not be satisfied. If the grade RA is given to a Project work course , then the course is to be registered again and the attendance requirements (vide clause 7) should be satisfied. 14.2 For the Co -curricular activities such as National Cadet Corps (NCC)/ National Service",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "W 0",
+    "confidence": "verified"
+  },
+  "Root|aa87c6b0d5d4813a50fdbdb12e1666ca0e9e665f5f707006082d97dddd669f07": {
+    "answer": "\u2018completed\u2019 remark will appear in the Grade Sheet on successful completion of the same. Every student shall put in a minimum of 75% attendance in the training and attend the camp or events of the clubs compulsorily. The training and camp or club events shall be completed during the first year of the programme. However, for valid reasons, the Head of the Institution may permit a student to complete this requirement in the subsequent years.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Scheme (NSS) / SPORTS &  GAMES  / YRC / Technical C lubs / Cultural  Clubs, a",
+    "confidence": "verified"
+  },
+  "Root|ef856d6dce3e904a415d997dff9187ba34801d1156b53703ff9bda9b328c1a45": {
+    "answer": "compulsory for the award of degree. 14.3 The grades O, A+, A, B+, B and C obtained for value added courses, Industry Oriented Courses, Liberal Arts Courses and Online courses shall figure in the grade sheets. The other grades are RA and SA will not figure in the grade sheet for such a course. 14.4 After results are declared, Grade Sheets will be issued to each student which will contain",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Successful completion of any one of the above co -curricular activities is",
+    "confidence": "verified"
+  },
+  "Root|06c3c2b8a7564ae903086f6b3c91c452c7b23fdaa68d3824360634fa795a539f": {
+    "answer": "(a) The list of courses registered during the semester and the grade scored.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "the following details",
+    "confidence": "verified"
+  },
+  "Root|80d0b38b8d8f0581b7bc5b253979dc5d846b9382d29a6e87fefd22e87a1ecd54": {
+    "answer": "(c) The Cumulative Grade Point Average (CGPA) of all courses enrolled from first semester onwards. GPA for a semester is the ratio of the sum of the products of the number of credits for courses acquired and the corresponding points to the sum of the number of credits for the courses acquired in the semester. CGPA will be calculated in a similar manner, considering all the courses registered from first semester. RA grades will be excluded for calculating GPA and CGPA.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "(b) The Grade Point Average (GPA) for the semester",
+    "confidence": "verified"
+  },
+  "Root|3f3458e51dba2afe0f05c54795245df0d25ff887f004aa4003d2611e3b364b89": {
+    "answer": "n is number of all courses successfully cleared during the particular semester in the case of GPA and during all the semesters in the case of CGPA.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "GPi is the point corresponding to the grade obtained for each course",
+    "confidence": "verified"
+  },
+  "Root|98f4e0fa4ebcf3f068cec07a669526871e946f6468bb4be77bc9fc1d656e34f0": {
+    "answer": "15.1 A student shall be declared to be eligible for the award of the B.E. / B.Tech.  Degree",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Page 18 of 22 15 ELIGIBILITY FOR THE AWARD OF THE DEGREE",
+    "confidence": "verified"
+  },
+  "Root|ab64975734e4a2d5eeea6d635cbcfcb237b527b81bccb0228089cd6af1565c09": {
+    "answer": "curriculum corresponding to the student\u2019s programme within the stipulated time. ii) Successfully completed the course requirements, appeared for the End -Semester examinations  and passed all the subjects within the per iod as prescribed in Clause 5.1. iii) Successfully passed any a dditional courses prescribed by the Board of studies / Academic council  whenever the student is read mitted under regulations R -2021.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "i) Successfully gained the required number of total credits as specified in the",
+    "confidence": "verified"
+  },
+  "Root|8c52ca9eac354d8809e6ea6a9525fe844d968d49b261a76f96e7075bd1f1e183": {
+    "answer": "Technical  Clubs / Cultural  Clubs requirements. v) Successful ly completed the Non -Mandatory C ourses. vi) No disciplinary action pending against the student. vii) The award of Degree must have been approved by the Syndicate of the  University.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "iv) Successfully completed the NCC / NSS / UBA / SPORTS & GAMES  / YRC /",
+    "confidence": "verified"
+  },
+  "Root|53edd87071ba8c508f6d966c9653f39841509a9032b643fa27616b744592e37a": {
+    "answer": "A student who satisfies the following conditions shall be declared to have passed the",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "15.2.1  FIRST CLASS WITH DISTINCTION",
+    "confidence": "verified"
+  },
+  "Root|5b9b79e6a1fb453c6b89940dcb1b64685ddd7628b59c6dcf1275dffb622ebf02": {
+    "answer": "i) Should have passed the examination in all the courses of all the eight semesters (6 semesters in the case of  Lateral Entry)  in the student\u2019s First Appearance within five years (Four yea rs in the case of Lateral Entry) . Withdrawal from examination (vide Clause 16 ) will not be considered as an  appearance. ii) Should have secured a CGPA of not less than 8.50. iii) One-year authorized break of study (if availed of) is included in the five years (Four years in the case of lateral  entry) for award of First class with Distinction.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "examination in First class with Distinction",
+    "confidence": "verified"
+  },
+  "Root|526335463c88c2de09eb85f55dc51037ece023747fececcfcdbf8e42c4520b12": {
+    "answer": "lack of attendance in any semester.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "iv) Should NOT have been prevented from writing end semester examination due to",
+    "confidence": "verified"
+  },
+  "Root|24fc2ce0d79516cb0d9c2f393cfa595f416faa58b0ea7185e0c95569216a7418": {
+    "answer": "A student who satisfies the following conditions shall be declared to have passed the",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "15.2.2 FIRST CLASS",
+    "confidence": "verified"
+  },
+  "Root|d8d1722d99b983461827767121bdb5f2ba117749aa00f0b9fb6b44f07b4b506d": {
+    "answer": "( 6 semesters in the case of Lateral Entry) within five years . Four yea rs in the case of Lateral Entry. ii) One year authorized break of study (if availed of) or prevention from writing the End Semester examination due to lack of attendance (if applicable) is included in the duration of five years and four yea rs in the case of lateral entry  for award of",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "i) Should have passed the examination in all the courses of all eight semesters",
+    "confidence": "verified"
+  },
+  "Root|c22de872a9f421a2f00d041242740f8d545a4b50e7a2f2f7d4b07914ad962abd": {
+    "answer": "iii) Should have secured a CGPA of not less than 6.50.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "First class",
+    "confidence": "verified"
+  },
+  "Root|addc60c51b3c7cf6304b92acc78b525e107d1f418c87974fdc162a562c5cf079": {
+    "answer": "All other stu dents (not covered in clauses 15.2.1 and 15 .2.2) who qualify for the award of the degree (vide Clause 15 .1) shall be declared to have passed the examination in Second  Class .",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "15.2.3 SECOND CLASS",
+    "confidence": "verified"
+  },
+  "Root|cfc026227cfd14a699e94f2b2e8514f570df2c3ca5df7b7ded68eea0f0130eaa": {
+    "answer": "A candidate who qualifies for the award of the degree (vide clause 1 5.1) and who  satisfies the following conditions shall be declared to have earned the  B.E. / B. Tech. (Hons) Specialisation in the same discipline, B.E. / B. Tech. (Hons) and  B.E. / B. Tech. minor in other specialisation. Page 19 of 22  i) B.E. / B. Tech. Honours (Specialization in the same discipline)",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "15.2.4 HONOURS AND MINOR DEGREE",
+    "confidence": "verified"
+  },
+  "Root|c42604619e5c96618daa3e40f82048deee3843bb404c521ce28f11ba7dad3077": {
+    "answer": "The student should have earned additionally a minimum of 18 credits in any one of the verticals of other B.E  / B. Tech Programmes or from any one of the following verticals.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "iii) B.E. / B. Tech. (Minor in the Specialization)",
+    "confidence": "verified"
+  },
+  "Root|b3ef1d81f54ef8b22771fa729b150ae425871169d380c1749e9d639f222aef7f": {
+    "answer": "Students can earn maximum of 6 credits in online mode, out of these 18 credits as approved by Centre for Academic Courses . B.E. / B. Tech. (Hons) Specialisation in the same discipline, B.E. / B. Tech. (Hons) and B.E. / B. Tech. minor in other specialisation  degree will be optional for students. For the category B.E. / B. Tech. Honours (Specialization in the same discipline) and B.E. / B. Tech.  Honours, the students will be permitted to register the courses from 3rd semester onwards  provided the students continue to maintain a CGPA of 7.50 and above throughout their course of  study and clear all the courses in the first attempt. For the category B.E. / B. Tech. (Minor in other specialization), the students will be permitted to  register the courses from 3rd semester onwards provided students  continue to maintain  a CGPA  of 7.50 and above  throughout their  course of study. If a student decides not to opt for Honours, after completing certain number of additional courses, the additional courses studied shall be considered instead of the Professional Elective courses which are part of the curriculum. If the student has studied a greater number of such courses than the number of Professional Elective courses required as per the curriculum, the courses with higher grades shall be considered for the calcu lation of CGPA. Remaining courses shall be printed in the mark sheet; however, they will not be considered for calculation of CGPA. If a student decides not to opt for Minor, after completing certain number of courses, the additional courses studied shall be considered instead of Open Elective courses which are part of the curriculum. If the student has studied a greater number of such courses Page 20 of 22 than the number of open electives required as per the curriculum, the courses with higher grades shall be considered for calculation of C GPA. Remaining courses shall be printed in the mark sheet; however, they will not be considered for calculation of C GPA. Student earned additional 18 credits as per Clause 15.2.4 (i) and 15.2.4 (ii) but does not satisfy the  conditions  mentioned  in 15.2.1 or 15.2.2  shall not be awarded  B.E. /B.Tech. Honours. In such cases  the m ark sheet will show the additional courses studied and those courses shall not be considered for CGPA computation. In such case if the student becomes  eligible for First Class, while computing CGPA without considering  the additional course studied, the student shall be awarded B.E. / B.Tech. in First Cl ass only. 15.4 A student who is absent in end semester examination in a course / project work after having registered for the same shall be considered to have appeared in that examination",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Vertical XII: Software Development Engineering \u2013 CE, ME, EE, EC, BM, CH, MI",
+    "confidence": "verified"
+  },
+  "Root|9fc9db30063df18e086415abb31472dea0d90e21123c2e3885642df3d54757de": {
+    "answer": "16.1 A student may, for valid reasons, (medically unfit / unexpected family situations / sports approved by Chairman, sports board and Ho D) be granted permission to withdraw from appearing for the end semester examination in any course or courses in ANY  ONE of the",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "16 PROVISION FOR WITHDRAWAL FROM END -SEMESTER EXAMINATION",
+    "confidence": "verified"
+  },
+  "Root|4295d74713cb1a966bed8c06212b4dee372236f1526a1565a9ab58a01f767cd0": {
+    "answer": "application shall be sent to COE through the Head of the Institutions with required documents. 16.2 Withdrawal application is valid if the student is otherwise eligible to write the examination (Clause 7) and if it is made within TEN days after the date of the examination(s) in that course or courses and recommended by the Head of the Department  and approved by the Head of the Institution . For a student to withdraw from a course / courses, he/she should have registered for the course, fulfilled the attendance requirements (vide clause 7) and earned continuous assessment marks. 16.2.1 Notwithstanding the requirement of mandatory 10 days, applications for withdrawal for special cases under extraordinary conditions will be considered on the merit of the case. 16.3 In case of withdrawal from a course / courses, the courses will figure both in Grade Sheet as well as in Result Sheet. However, withdrawal shall not be considered as an appearance for the eligibility of a student for First Class with Distinction. 16.4 If a student withdraws a course or courses from writing end semester examinations, he/she shall register the same in the subsequent semester and write the end semester examination(s). 16.5 If a student applies for withdrawal from Project work, he/she will be permitted for the withdrawal only after the submission of project report before the deadline. However, the student may appear for the viva vo ce examination within 60 days after the declaration of results for Project Work and the same shall not be considered as reappearance. 16.6 Withdrawal is permitted for the end semester examinations in the final semester, as per clause 15.2.1.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "semester examinations during the entire duration of the degree programme. The",
+    "confidence": "verified"
+  },
+  "Root|1be46b1f2160ff141260083bfb641ba8abed3b605e1306876a3a934cca922dec": {
+    "answer": "17.1 A student is permitted to go on authorised break of study for a maximum period of one year as a single spell. 17.2 Break of Study shall be granted only once for valid reasons for a maximum of one year during the entire period of study of the degree programme. However, in extraordinary situation the student may apply for additional break of study not exceeding another one year by paying prescribed fee for break of study. If a student intends to temporari ly discontinue the programme in the middle of the semester for valid reasons, and to re -join the programme in a subsequent year, permission may be granted based on the merits of the case provided he / she applies to the Head of the Institution in advance, but not later than the last date for registering for the end semester examination of the semester in question, through the Head of the Department stating the reasons therefore and the probable date of rejoining the programme. 17.3 The student permitted to re -join the programme after break of study / prevention due to lack of attendance, shall be governed by the Curriculum and Regulations in force at the time of rejoining. The students re -joining in new regulations shall register for  additional",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Page 21 of 22 17 PROVISION FOR AUTHORISED BREAK OF STUDY",
+    "confidence": "verified"
+  },
+  "Root|437196d6877126a28fe34d6eae251870324b34ee797a889aff9fbc12634c0572": {
+    "answer": "regulations. These courses may be from any of the semesters of the curriculum in force, so as to bridge the curriculum in force and the old curriculum. 17.4 The authorized break of study is included in the duration specified for passing all the courses for the purpose o f classification (vide Clause 15 .2). 17.5 The total period for completion of the Programme reckoned from, the commencement of the first semester to which the candidate was admitted shall not exceed the maximum period specified in clause 5.1 irrespective of the period of break of study in order tha t he/she may be eligible for the award of the degree. 17.6 If any student is prevented for want of required attendance, the period of prevention shall not be considered as authorized \u2018Break of Study\u2019 (Clause 1 7.1). 17.7 If a student wants to take up job / start -up / entrepreneurship during the period of study he/she shall apply for authorised break of study for one year. The student shall join the job / start -up / entrepreneurship only after getting approval of the same b y the Head of the Institution with due proof to that effect. 17.8 No fee is applicable to students during the Break of Study period.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "courses, if any, as notified by the Centre for Academic Courses under change of",
+    "confidence": "verified"
+  },
+  "Root|849749e22fa7c9d7c84b9182a99ce955f82f0b22fda67f3ca0498f94b534a56f": {
+    "answer": "18.1 Every student is expected to follow the rules and regulations laid down by the Institute and the affiliating University, as published from time to time. Any violations, if any, shall be treated as per the procedures stated there of. 18.2 If a student indulges in malpractice in any of the End Semester / Continuous Assessments, he / she shall be liable for punitive action as prescribed by the Institution / University from time to time.",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "18 DISCIPLINE",
+    "confidence": "verified"
+  },
+  "Root|232d7303868f2e2134c70c469f2349282a5fc7988a086371566d4efa934d910e": {
+    "answer": "The Institution reserves the right to revise/amend/change the Regulations, Curriculum, Syllabi, Scheme of Examinations,  and date of implementation through the Academic Council, and to introduce additional Electives and One Credit Courses through the respective Boards of Studies. The following revisions were made to the Regulations  2021  based on the 9th and 10th",
+    "source": "R2021-Amended.pdf",
+    "original_intent": "Page 22 of 22 19 REVISION OF REGULATIONS, CURRICULUM AND SYLLABI",
+    "confidence": "verified"
+  },
+  "Root|a20b2d8f4b9662514dc568e13ce883ad85f12dc4d239d914543c943966c04df0": {
+    "answer": "all times.",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Maintain silence in the library and laboratory at",
+    "confidence": "verified"
+  },
+  "Root|619a8bd243ebfdff6557b76f31bb3a37e5573baf275000df2739c11b84aae87b": {
+    "answer": "other equipment with care.",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Handle books, computers, instruments, and",
+    "confidence": "verified"
+  },
+  "Root|96b73078a598826313fd273e540c3b64a9b22a3d72712907fd0bfec8811f5b8b": {
+    "answer": "strictly prohibited.",
+    "source": "Student CoC.pdf",
+    "original_intent": "disturbing others, or harassment of any kind, is",
+    "confidence": "verified"
+  },
+  "Root|7ab5848cd0d062718567ec6aa26c90301bc024975c731432be474f02711bde7e": {
+    "answer": "academic websites on library or lab computers.",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Do not access inappropriate, offensive, or non-",
+    "confidence": "verified"
+  },
+  "Root|5ec9b43aff652ca1889e81b03b334a480fdab63e79dc4dbe84825d4a7a6d3a7d": {
+    "answer": "be found wandering outside.",
+    "source": "Student CoC.pdf",
+    "original_intent": "evening hours and should not",
+    "confidence": "verified"
+  },
+  "Root|f01f85bd339946f5bd2543d0163bf048eda4096b30e89d846b8dfe2bf6e1a16e": {
+    "answer": "integrity of the campus.",
+    "source": "Student CoC.pdf",
+    "original_intent": "activity that endangers the health, safety, or moral",
+    "confidence": "verified"
+  },
+  "Root|db8df8f01cddb80865762b306c00d47bbe255229876a516b4879eb8e3afafaf3": {
+    "answer": "e-cigarettes, cool lip, etc.) inside the premises.",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Use of tobacco in any form (smoking, chewing,",
+    "confidence": "verified"
+  },
+  "Root|572f1cbe6ed6f07c7871aa09a6375e255d3290833a9ec1d7aace65e4864e6c90": {
+    "answer": "1937, and other relevant laws.",
+    "source": "Student CoC.pdf",
+    "original_intent": "Tamil Nadu Prohibition Act,",
+    "confidence": "verified"
+  },
+  "Root|92e24676b6e617bdf786cf36fe3919d7ea6fc9aeb6e472756c2214490cf8976b": {
+    "answer": "form of sexual harassment or indecent behaviour.",
+    "source": "Student CoC.pdf",
+    "original_intent": "KPRIET follows a zero-tolerance policy towards any",
+    "confidence": "verified"
+  },
+  "Root|0cc0a6f52eefb6f9964c767337e839fa9069db1a71663afc4c7687f59a885473": {
+    "answer": "property is treated as a serious disciplinary offence.",
+    "source": "Student CoC.pdf",
+    "original_intent": "intentional damage to personal or institutional",
+    "confidence": "verified"
+  },
+  "Root|6624afdf9cc88910b5cc8b6eac031c621f11f166b52583edf7c896eb5f6b21d1": {
+    "answer": "related offences).",
+    "source": "Student CoC.pdf",
+    "original_intent": "378\u2013382 (Theft, Extortion, and",
+    "confidence": "verified"
+  },
+  "Root|41b535b0d564e12bdf6f218cbdf8621dca8093cd813ccee2707838fd076bd358": {
+    "answer": "To promote professionalism, discipline, and unity, all students must adhere to the following dress code guidelines during college hours, laboratory sessions and official programs.",
+    "source": "Student CoC.pdf",
+    "original_intent": "Dress Code Policy",
+    "confidence": "verified"
+  },
+  "Root|37ddede0166fdc343510dab3d55eeb2e8fe38b5dcd42b15ddfa3b0569df6e729": {
+    "answer": "\uf0a7 Wear formal attire or official college uniform when representing the institution in events as instructed.",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Dress should reflect modesty, neatness and professionalism at all times",
+    "confidence": "verified"
+  },
+  "Root|ab8afa6f08c5613965c7c81da3a757325523a6bc7a3423e50258e1cde0c38e78": {
+    "answer": "\uf0a7 Repeated violation: The student will not be allowed to attend classes and will be marked absent",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Second offence: Written warning with intimation to parents",
+    "confidence": "verified"
+  },
+  "Root|c667aec062376041c32b720856b46cad63cffbb95b8f0b5e3cec442275d49787": {
+    "answer": "\uf0a7 Persistent or deliberate disobedience: Suspension and/or referral to the Disciplinary Committee.",
+    "source": "Student CoC.pdf",
+    "original_intent": "for the day",
+    "confidence": "verified"
+  },
+  "Root|7a256ddd24ef52c8034f9cbcf8ba6997f4b6e22139fe989ca184e9d7f614e1b2": {
+    "answer": "KPR Institute of Engineering and Technology (KPRIET) welcomes students from across the globe and values diversity, cultural exchange and global learning. To help international students integrate smoothly and uphold the values and discipline of the institution, the following additional rules and guidelines are to be observed.",
+    "source": "Student CoC.pdf",
+    "original_intent": "Additional Rules and Guidelines for International Students",
+    "confidence": "verified"
+  },
+  "Root|c396ba961f995fb51e8be425a16bb77caa247acbba3c88253d551205fc083838": {
+    "answer": "\uf0a7 International students must abide by all the institutional rules and regulations applicable to Indian",
+    "source": "Student CoC.pdf",
+    "original_intent": "1. General Conduct and Integration",
+    "confidence": "verified"
+  },
+  "Root|3709c29eaa62a5ae79faf9fe9824ddecb604864919e49a0a870298e0222623d8": {
+    "answer": "\uf0a7 Strictly avoid any actions that may offend cultural or religious sentiments within or outside the",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Maintain courteous and respectful interactions with faculty, staff, and peers",
+    "confidence": "verified"
+  },
+  "Root|64cf0c321e2794e5de2832cf1ff71d89c8fe85222a1b13da99269ef9d59c45e2": {
+    "answer": "\uf0a7 Participation in cultural and institutional programs is encouraged to foster cross-cultural",
+    "source": "Student CoC.pdf",
+    "original_intent": "campus",
+    "confidence": "verified"
+  },
+  "Root|59a4861836cd828841a28ad472f4fca389aad7d0a792831802d8b5787a12aaa0": {
+    "answer": "\uf0a7 Modest cultural variations are respected however, attire must always be neat, professional and",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 International students must adhere to the official KPRIET Dress Code Policy",
+    "confidence": "verified"
+  },
+  "Root|66c13eee422c3a535ae7257d34742ddc4fcee1540c2eab5db26ec9d7c8f35b21": {
+    "answer": "\uf0a7 Students uncertain about the suitability of their attire should seek guidance from the International",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 College T-shirt is compulsory on working Saturdays",
+    "confidence": "verified"
+  },
+  "Root|5bda3747114dc54d87255aefedc1140f90086a77111a9e31b276a3dbf0cd38b6": {
+    "answer": "\uf0a7 Submit all assignments, projects and assessments within the specified deadlines \uf0a7 Obtain prior written approval from the HoD and Principal before undertaking any travel abroad or to the home country during the semester and ensure strict return on time after the holidays \uf0a7 Repeated absence without approval may result in academic penalties or visa reporting",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Maintain a minimum of 75% attendance in all the subjects",
+    "confidence": "verified"
+  },
+  "Root|adaed67908668e781ea08e907d7d8be800373c28998224a9c626f7a56c99ac55": {
+    "answer": "\uf0a7 Possession, consumption or distribution of alcohol, drugs or tobacco in any form is strictly",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Students staying in hostels must maintain peaceful and hygienic surroundings",
+    "confidence": "verified"
+  },
+  "Root|bb5f370fc090fa15cc30ca5636dfa3d6cb14defbc9d3cdf5a4bdc1ce7d320775": {
+    "answer": "\uf0a7 Loud parties, overnight guests or gatherings that disturb others are strictly prohibited \uf0a7 Students are expected to inform the KIC of any change in address or contact details within 48 hours",
+    "source": "Student CoC.pdf",
+    "original_intent": "prohibited within the hostels and the campus",
+    "confidence": "verified"
+  },
+  "Root|2bba97732114aa27e051baaa8437aa414be7ceccd60aa9d5cb9f141c93ac5d30": {
+    "answer": "\uf0a7 All international students must maintain valid passport, visa, and residential permits (FRRO",
+    "source": "Student CoC.pdf",
+    "original_intent": "5. Documentation and Visa Compliance",
+    "confidence": "verified"
+  },
+  "Root|792e4144917242fab0b5d936b065510ce6432e33d395a798307ae3eca8b3f9bb": {
+    "answer": "\uf0a7 Students must comply with all FRRO / immigration regulations, and any violation may be reported to the concerned authorities.",
+    "source": "Student CoC.pdf",
+    "original_intent": "iii. Loss of documents",
+    "confidence": "verified"
+  },
+  "Root|222619a3f2db833dffe4af4fdf82e490af64000e2e4e082606d59ab9df060046": {
+    "answer": "\uf0a7 The medium of instruction is English; students are expected to have adequate proficiency \uf0a7 Use of offensive, discriminatory, or abusive language in any form (verbal, written, or online) is",
+    "source": "Student CoC.pdf",
+    "original_intent": "6. Language and Communication",
+    "confidence": "verified"
+  },
+  "Root|fda9260a0bb6e089b1daef277b7690389bbb3b8c3003b6a9534ea529f6b21f5a": {
+    "answer": "\uf0a7 KPRIET encourages international students to learn basic Tamil to enhance communication and",
+    "source": "Student CoC.pdf",
+    "original_intent": "strictly prohibited",
+    "confidence": "verified"
+  },
+  "Root|dbfab1d7b5992946f3b28c1a8068926d4e80ea5ecc19efb805f07e6d55104d79": {
+    "answer": "\uf0a7 International students are encouraged to actively participate in clubs, sports and various cultural",
+    "source": "Student CoC.pdf",
+    "original_intent": "7. Participation and Representation",
+    "confidence": "verified"
+  },
+  "Root|cbf2a9992fb18a500a6c405ef93971de167f18801a8c025e09ee250ada4376bf": {
+    "answer": "\uf0a7 Students may represent KPRIET in external or embassy-related programs with prior approval from",
+    "source": "Student CoC.pdf",
+    "original_intent": "activities",
+    "confidence": "verified"
+  },
+  "Root|478cb76b43baf855efa8f19e05af3aafd38e7ccbca43a409a28d85d7dff94471": {
+    "answer": "\uf0a7 Cultural diversity and respectful representation of one\u2019s home country are highly encouraged",
+    "source": "Student CoC.pdf",
+    "original_intent": "the HoD or KIC",
+    "confidence": "verified"
+  },
+  "Root|ee8d67e39e71d2e4be1328891b3f588fbfc411b9a73aae0dbe20710e9f88b5ce": {
+    "answer": "\uf0a7 International students are governed by the same disciplinary framework as all KPRIET students",
+    "source": "Student CoC.pdf",
+    "original_intent": "8. Disciplinary Measures",
+    "confidence": "verified"
+  },
+  "Root|65c82ae1642f5e06589f4e2eda1ecfef22f4a60e8705d39b792f81548dd27a0a": {
+    "answer": "\uf0a7 The KIC offers assistance with documentation, housing, healthcare and cultural adaptation \uf0a7 Students may seek support for personal, academic or cultural challenges in a confidential and",
+    "source": "Student CoC.pdf",
+    "original_intent": "9. Support and Welfare",
+    "confidence": "verified"
+  },
+  "Root|696034af8fd2edaf9f202f3291ca7e282929fbed9e645d9cc131822b85d2557c": {
+    "answer": "\uf0a7 The institution upholds non-discrimination, ensures equal opportunities and provides safe and",
+    "source": "Student CoC.pdf",
+    "original_intent": "respectful manner",
+    "confidence": "verified"
+  },
+  "Root|1f9d8eb5ca4265fb389e4ce8cfd740d91128e0da975b21b7695b7afa327e0c15": {
+    "answer": "\uf0a7 Students must maintain discipline, decency and decorum at all times within the hostel premises \uf0a7 Residents should treat hostel staff, wardens and fellow students with respect and courtesy \uf0a7 Ragging, harassment, bullying or discrimination in any form is strictly prohibited and will result in immediate expulsion and legal action under the Tamil Nadu Prohibition of Ragging Act, 1997 \uf0a7 Any form of violence, use of abusive language or misconduct will not be tolerated",
+    "source": "Student CoC.pdf",
+    "original_intent": "1.  General Conduct",
+    "confidence": "verified"
+  },
+  "Root|a2c26f34c268e841e97b07774a1f8205444f159a76dcab596bc1028fc0ae8566": {
+    "answer": "\uf0a7 All the hostellers, both boys and girls, must return to the hostel before 8:00 p.m. (or as per warden\u2019s",
+    "source": "Student CoC.pdf",
+    "original_intent": "2. Attendance and Timings",
+    "confidence": "verified"
+  },
+  "Root|ca10aabf7e828aaa5ad5fed25140f288f5ef9e2d72665d2bae3b291ec20b842e": {
+    "answer": "\uf0a7 Attendance will be taken every night and students absent without permission will face disciplinary",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Late entries will be permitted only with prior approval from the warden",
+    "confidence": "verified"
+  },
+  "Root|fdea56b9983e256d8a2a0d5ba05c3dac2bf8c5c60fdafa21afd60be401239aff": {
+    "answer": "\uf0a7 Day scholars are strictly prohibited from entering or remaining within the hostel premises. Any violation will result in a disciplinary warning and a monetary fine of up to \u20b91500 and repeated offences will invite further disciplinary action.",
+    "source": "Student CoC.pdf",
+    "original_intent": "actions",
+    "confidence": "verified"
+  },
+  "Root|a07c551a119d25f705a90af6f430979f7612bcf3be4970f595dabb2022559a1d": {
+    "answer": "\uf0a7 Visitors are permitted only during designated visiting hours and must sign in and out at the hostel",
+    "source": "Student CoC.pdf",
+    "original_intent": "3. Visitors and Outings",
+    "confidence": "verified"
+  },
+  "Root|613bc7b3dadb22dea8e669ef50224b6eb74b960747ec3470f88af170438119a3": {
+    "answer": "\uf0a7 Only parents and officially authorized guardians are permitted to meet students in the visitors\u2019",
+    "source": "Student CoC.pdf",
+    "original_intent": "security desk",
+    "confidence": "verified"
+  },
+  "Root|e62a028b505b88ef55e6fe624b779a117cb84d869e517acdd67ad1d5a2480b17": {
+    "answer": "\uf0a7 Students intending to stay outside the campus overnight or during weekends must obtain written",
+    "source": "Student CoC.pdf",
+    "original_intent": "room",
+    "confidence": "verified"
+  },
+  "Root|5395cc68a1bc8fd0567927abb4b10b920b45d43d608ffd2eeed47da2426ff9e9": {
+    "answer": "\uf0a7 Unauthorized outings or staying outside without approval will result in suspension or expulsion",
+    "source": "Student CoC.pdf",
+    "original_intent": "permission from both the warden and their parents",
+    "confidence": "verified"
+  },
+  "Root|4216dfbdb8c4c537ba0456f234a241fca65923ac71e76bbda03639e703926aa4": {
+    "answer": "\uf0a7 Common areas such as bathrooms, corridors and dining halls must be maintained in a neat and",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Students must keep their rooms clean, tidy and well-ventilated at all times",
+    "confidence": "verified"
+  },
+  "Root|c192d051e3fd3f0972c1102489cca30f778a5d0903943c21ad5779cc7155a786": {
+    "answer": "\uf0a7 Use of immersion heaters, electric irons, kettles and induction cookers  is strictly prohibited",
+    "source": "Student CoC.pdf",
+    "original_intent": "5. Electrical and Safety Rules",
+    "confidence": "verified"
+  },
+  "Root|7cd1c6d3a876b261805419f154bbaf565216759011c7b724135fdea254cca199": {
+    "answer": "\uf0a7 Tampering with electrical fittings or equipment will lead to fine and disciplinary action \uf0a7 In case of fire or any emergency, students must follow evacuation procedures and inform the",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Switch off all lights and fans when not in use",
+    "confidence": "verified"
+  },
+  "Root|ae1d9747a6a1f481f690cfdebfb4c9337f22dc5533132bdb809deb0fccb80371": {
+    "answer": "\uf0a7 Drug abuse, alcohol consumption, or possession of intoxicating substances is strictly banned and",
+    "source": "Student CoC.pdf",
+    "original_intent": "6. Prohibited Activities",
+    "confidence": "verified"
+  },
+  "Root|534e66271c43291d9749eada24c23006e5d2885617dfd87076fe8d5ca1f54b2a": {
+    "answer": "\uf0a7 Smoking or use of tobacco in any form is strictly prohibited within the hostel premises in",
+    "source": "Student CoC.pdf",
+    "original_intent": "will result in immediate expulsion and police action under the NDPS Act, 1985",
+    "confidence": "verified"
+  },
+  "Root|2595889df5ca32b6376cd8b0e7c89e0e3eabb8cf8a73736569aa4a163b306856": {
+    "answer": "\uf0a7 Gambling, betting or viewing obscene or inappropriate content is strictly forbidden \uf0a7 Sexual harassment, indecent behaviour or sexual activity of any kind will lead to instant dismissal and legal proceedings.",
+    "source": "Student CoC.pdf",
+    "original_intent": "accordance with the COTPA, 2003",
+    "confidence": "verified"
+  },
+  "Root|29563269360daebf4b226efb7bedbd845fc9602818c3d5ac6457c61574345e9c": {
+    "answer": "\uf0a7 Students must not misuse Wi-Fi or use it to access unauthorized or illegal websites",
+    "source": "Student CoC.pdf",
+    "original_intent": "7. Use of Gadgets and Internet",
+    "confidence": "verified"
+  },
+  "Root|f7763d4a2b172a62539cd0594e957c93ae8f1568df9f76626d92feaa7576498a": {
+    "answer": "\uf0a7 Only personal laptops and mobile phones are permitted; use of any other electronic gadgets requires prior approval from the warden.",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 Loud music, shouting, or playing speakers that disturb others is prohibited",
+    "confidence": "verified"
+  },
+  "Root|f9bd214dfce374b9dd1c7fc025041d7262e9f0c7405bb87cf41149142d5659fb": {
+    "answer": "\uf0a7 Students must adhere strictly to mess timings and maintain discipline in the dining hall \uf0a7 Food wastage is discouraged, and all diners must ensure cleanliness in the dining area \uf0a7 Any complaints or suggestions regarding food should be directed to the Mess Committee or Warden, not to the kitchen staff.",
+    "source": "Student CoC.pdf",
+    "original_intent": "8. Mess and Dining Etiquette",
+    "confidence": "verified"
+  },
+  "Root|7d1e6f7b5338393581fff3a2b7c81e98b3797707bd35d2b3cc7516c7798ce2e6": {
+    "answer": "\uf0a7 Hostel property including furniture, fans, lights, mattresses, etc., must be handled with care \uf0a7 Any damage or loss to hostel property will be recovered from the responsible student(s) along with",
+    "source": "Student CoC.pdf",
+    "original_intent": "9. Property and Maintenance",
+    "confidence": "verified"
+  },
+  "Root|c25a7146eb0d24e5f29a5aacbf31389ec41d0b2921ee250afc1113cce15feec1": {
+    "answer": "\uf0a7 Students must not change rooms or furniture without warden\u2019s approval.",
+    "source": "Student CoC.pdf",
+    "original_intent": "a penalty",
+    "confidence": "verified"
+  },
+  "Root|da09c33a7328480bac40f1b0f42af4032f8779a5ffa9e3cf6f9c6828434a5e6c": {
+    "answer": "I, ________________________________________________________________________________, Register Number: ________________________________________, Programme & Department: ____________________________________________________________, hereby declare that I have carefully read and understood all the rules and regulations mentioned in the KPRIET Hostel Rules and Code of Conduct. I agree to abide by these rules and understand that any violation, misconduct or non-compliance may result in disciplinary action, including fines, suspension or expulsion from the hostel and/or the institution.",
+    "source": "Student CoC.pdf",
+    "original_intent": "Hostel Rules -  Authorization and Undertaking",
+    "confidence": "verified"
+  },
+  "Root|f9021d59dbaa0b96fbe424c56266436bdb2163d41b73cb46bae6df6eb14213f3": {
+    "answer": "\uf0a7 I shall not indulge in ragging, substance abuse, harassment or any prohibited activities within or",
+    "source": "Student CoC.pdf",
+    "original_intent": "I further acknowledge that",
+    "confidence": "verified"
+  },
+  "Root|756cad1f87564fa11e7881127d68bc74b2725f794f5268de63a18102477d6537": {
+    "answer": "\uf0a7 I will maintain discipline, cleanliness and decorum as expected from a KPRIET student",
+    "source": "Student CoC.pdf",
+    "original_intent": "outside the hostel premises",
+    "confidence": "verified"
+  },
+  "Root|da3a5d044f6e9ccfe6c699ac7837be35de4cdc841c86083e6d88f429f37b8a51": {
+    "answer": "\uf0a7 I understand that entry of dayscholars into the hostel is strictly prohibited and any violation will attract a fine and disciplinary action. I further declare that I will cooperate with the hostel authorities and follow all instructions issued from time to time for the smooth functioning and safety of the hostel community.",
+    "source": "Student CoC.pdf",
+    "original_intent": "\uf0a7 I accept full responsibility for my conduct and behavior inside the hostel",
+    "confidence": "verified"
+  },
+  "Root|dfdc1a6aaabc0d2c6f352f0a13f91345718537d3035257ca2c662a3b41ad2cde": {
+    "answer": "I, ________________________________________________________ have read and understood the hostel rules and hereby agree that my ward will adhere to them. I accept that disciplinary action may be taken against my ward in case of any violation.",
+    "source": "Student CoC.pdf",
+    "original_intent": "Parent/Guardian Declaration",
+    "confidence": "verified"
+  },
+  "Root|4565cef06608aeae1b78c140eeec2cbceee6fa68b270ffdf60dd7e38fbf06b3b": {
+    "answer": "I, ________________________________________, Register Number: ____________________, Programme & Department: ___________________________________________________________________, hereby declare that I have read, understood, and agree to abide by all the rules and regulations prescribed by KPR Institute of Engineering and Technology.",
+    "source": "Student CoC.pdf",
+    "original_intent": "KPRIET \u2013 Student Declaration & Authorization to Abide by College Rules",
+    "confidence": "verified"
+  },
+  "Root|02abe1bd67354c0cf1b55cf6d82c197c512439ddc89c0e0a6ca484961b9571bd": {
+    "answer": "\u2022 Refrain from any act of ragging, harassment, discrimination, or indiscipline as per the Tamil Nadu",
+    "source": "Student CoC.pdf",
+    "original_intent": "\u2022 Follow the prescribed dress code and code of conduct",
+    "confidence": "verified"
+  },
+  "Root|2ea11b67f6d8c3a8784a6a85938312fcda3d47dff2f8f0366bfaf14789a4ebfc": {
+    "answer": "\u2022 Avoid the use or possession of drugs, alcohol, tobacco, or any prohibited substances as per national",
+    "source": "Student CoC.pdf",
+    "original_intent": "Prohibition of Ragging Act, 1997 and institutional policies",
+    "confidence": "verified"
+  },
+  "Root|8b3f26415aeb1075bdce4fd52423d0c7555ee7a423ea3d5732ddeab14dab2795": {
+    "answer": "\u2022 Respect all faculty, staff, and fellow students, and uphold the values of mutual respect and",
+    "source": "Student CoC.pdf",
+    "original_intent": "and state laws (NDPS Act, 1985 and COTPA, 2003)",
+    "confidence": "verified"
+  },
+  "Root|a44aaaafa486b10ce6f838a7a22f4ffc22a8737394b53698e133e042e3844c28": {
+    "answer": "\u2022 Protect and maintain college property and environment, and avoid any form of vandalism,",
+    "source": "Student CoC.pdf",
+    "original_intent": "cooperation",
+    "confidence": "verified"
+  },
+  "Root|db9b965bf67a1a46dc98a942d77cf2857b3a14f0160e430f9084603cd3ed70e8": {
+    "answer": "I fully understand that any violation of the college rules and regulations will invite disciplinary action, which may include warning, fine, suspension, expulsion, or legal proceedings, as deemed appropriate by the college authorities. I authorize KPRIET to take necessary disciplinary measures to ensure the safety, integrity, and moral standards of the institution.",
+    "source": "Student CoC.pdf",
+    "original_intent": "damage or misuse",
+    "confidence": "verified"
+  },
+  "Root|c9a7d77fca8b68483c4e5ab7cd5815635ace0e28959ea996bd009d226d616e23": {
+    "answer": "have read and understood the college rules and hereby agree that my ward will abide by them. I accept that disciplinary action may be taken against my ward in case of any violation.",
+    "source": "Student CoC.pdf",
+    "original_intent": "I, ___________________________________________ (Name of the Parent/Guardian),",
+    "confidence": "verified"
+  }
+}
